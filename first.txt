@@ -1,1 +1,2 @@
+This is new addition to the file. 
 Hello this is my first directory and file creation
